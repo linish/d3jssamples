@@ -1,2 +1,2 @@
-# d3jssamples
-D3JS Samples
+# D3JS Samples
+This repo contains my learnings about D3JS
