@@ -1,0 +1,8 @@
+Steps for Drawing a Chart
+1. Get Data
+2. Draw Chart Dimensions
+3. Draw Image
+4. Create Scales
+5. Draw Shapes
+6/ Draw Axis
+7. Add Animation & Events
